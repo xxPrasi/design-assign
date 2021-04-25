@@ -76,3 +76,8 @@ h3{
     background-color: #2fc1d9;
 }
 
+.footnav
+{
+    float: left;
+    margin-right:500px;
+}

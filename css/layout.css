@@ -13,7 +13,14 @@ nav
 main
 {
     background-color: #ffffff;
-    margin-left: 514px;
+}
+.left
+{
+    float: left;
+}
+.middle
+{
+    float: left; 
 }
 footer
 {
