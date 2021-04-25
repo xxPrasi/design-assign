@@ -62,6 +62,29 @@
     display: inline;  
 }
 
+.left{
+    width:200px;
+    float:left; 
+    margin-left: 40px;
+}
+
+.mainimg{
+    float: left;
+}
+
+.name, .topic, .newcmt, .newent{
+    color: #2fc1d9;
+    font-weight: bold;
+}
+
+.sub{
+    color: green; 
+}
+
+.newinv{
+    color: maroon; 
+}
+
 ul {
     list-style-type: none;
     margin: 0;
