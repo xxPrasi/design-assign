@@ -66,6 +66,8 @@
     width:200px;
     float:left; 
     margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 50px;
 }
 
 .mainimg{
@@ -99,8 +101,9 @@ h3{
     background-color: #2fc1d9;
 }
 
-.footnav
-{
-    float: left;
-    margin-right:500px;
+.right{
+    width:200px;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 50px;
 }
