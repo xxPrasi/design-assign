@@ -4,13 +4,12 @@
   float: left;
   margin-left: 82px;
   margin-right: 82px;
-  margin-top: 20px;
-  margin-bottom: 15px;
+  margin-top: 15px;
 }
 
 .searchbox{
     float: left;
-    margin-top: 40px;
+    margin-top: 35px;
     color: #8c9a9b;
 }
 
@@ -22,7 +21,7 @@
 }
 
 #searchicon{
-    padding: 10px;
+    height: 25px;
 }
 
 #searchbtn{
@@ -34,29 +33,31 @@
 }
 
 .usernav{
-    margin-bottom: 20px;
     margin-right: 28px;
 }
 
 #usernavtop{
     display: inline;
-    padding-bottom: 24px;
+    margin-bottom: 20px;
 }
 
 .navitem{
     float: left; 
     margin-right: 108px;
     margin-left: 40px;
+    margin-top: 15px;
 }
 
 #navhor{
-    padding-top: 15px; 
     padding-right: 40px;  
     display: inline;  
 }
 
+.navfeat{
+    margin-left: 20px;
+}
+
 #imghor{
-    padding-top: 15px; 
     padding-right: 10px;  
     display: inline;  
 }
