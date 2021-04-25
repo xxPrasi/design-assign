@@ -24,6 +24,9 @@ main
 }
 footer
 {
-    background-color: #dddddd;
+    background-color: #727272;
+    color:white; 
     width: 100%; 
+    float: left; 
+    font-size: 10px;
 }

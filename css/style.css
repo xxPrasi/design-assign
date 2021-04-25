@@ -128,14 +128,12 @@ h3{
     height: 40px;
 }
 
-footer{
-    float: left; 
-}
-
 .footnavhor{
     display: inline;  
+    margin-bottom: 10px;
 }
 
 .footcopyright{
     float: right;
+    margin-bottom: 10px;
 }
