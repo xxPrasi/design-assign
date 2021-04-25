@@ -18,6 +18,12 @@
     height: 19px; 
     background-color: #cbeff6;
     margin-right: 10px;
+    border: none;
+    margin-left:-5px;
+}
+
+.searchtxtcorner{
+    margin-left: 0px;
 }
 
 #searchicon{
@@ -31,6 +37,7 @@
     background-color: #274f56;
     margin-right: 215px;
     color: white; 
+    border: none;
 }
 
 .usernav{
@@ -76,13 +83,18 @@
     height: 40px;
 }
 
+.tab{
+    border: none;
+}
+
 .content{
-    padding: 10px; 
+    padding: 10px;
+    border-bottom: 2px; 
 }
 
 .mainimg{
     float: left;
-    height: 50px;
+    height: 55px;
     margin-right: 20px;
 }
 
