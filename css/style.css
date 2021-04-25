@@ -132,6 +132,10 @@ h3{
     display: inline;  
     margin-bottom: 10px;
 }
+.footerdot{
+    height: 10px;
+    width: 10px;
+}
 
 .footcopyright{
     float: right;
