@@ -4,7 +4,6 @@ header
     height: 85px;
     width: 1002px; 
     margin-left: 479px; 
-    margin-right: 479px; 
 }
 nav
 {
@@ -12,18 +11,15 @@ nav
     height: 40px; 
     width: 1002px; 
     margin-left: 479px; 
-    margin-right: 479px; 
 }
 main
 {
     background-color: #ffffff;
     margin-left: 514px;
-    margin-right: 514px;
 }
 footer
 {
     background-color: #dddddd;
     width: 1002px; 
     margin-left: 479px; 
-    margin-right: 479px; 
 }
