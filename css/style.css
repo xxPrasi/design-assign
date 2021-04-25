@@ -29,9 +29,12 @@
 }
 
 .usernav{
-    margin-top: 25px;
     margin-bottom: 20px;
     margin-right: 28px;
+}
+
+.username{
+    margin-top: 25px;
 }
 
 h3{
