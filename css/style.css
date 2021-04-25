@@ -11,7 +11,7 @@
 .searchbox{
     float: left;
     margin-top: 40px;
-    margin-bottom: 25px;
+    color: #8c9a9b;
 }
 
 #search{
@@ -21,11 +21,16 @@
     margin-right: 10px;
 }
 
+#searchicon{
+    padding: 10px;
+}
+
 #searchbtn{
     width: 40px;
     height: 20px; 
     background-color: #274f56;
     margin-right: 215px;
+    color: white; 
 }
 
 .usernav{
@@ -33,20 +38,33 @@
     margin-right: 28px;
 }
 
-.username{
-    margin-top: 25px;
+.navitem{
+    float: left; 
+    margin-right: 108px;
+    margin-left: 40px;
 }
 
-h3{
-    background-color: #2fc1d9;
+#navhor{
+    padding-right: 40px;  
+    display: inline;  
+}
+
+#imghor{
+    padding-right: 10px;  
+    display: inline;  
 }
 
 ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
-  }
+}
   
 li {
 display: inline;
 }
+
+h3{
+    background-color: #2fc1d9;
+}
+
