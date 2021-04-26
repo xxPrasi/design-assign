@@ -108,6 +108,16 @@
     height: 15px;
 }
 
+.leftgreycorner{
+    margin-left: -475px;
+    height: 80px;
+}
+
+.rightgreycorner{
+    height: 80px;
+    margin-left: 422px;
+}
+
 .middle{
     width: 500px;
 }
